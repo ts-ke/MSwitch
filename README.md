@@ -1,1 +1,5 @@
 # MSwitch
+
+![Demo](demo.gif)
+
+
